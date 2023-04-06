@@ -1,6 +1,6 @@
-<!DOCTYPE html>  
-<html>  
-<body>  
+<!DOCTYPE html>
+<html>
+<body>
 <?php
 $rows = $_GET['size'];
 $cols = $_GET['size'];
@@ -26,7 +26,7 @@ echo "<table border=\"1\">";
   echo"</table>";
 
 
-?>    
-</table>  
-</body>  
-</html>  
+?>
+</table>
+</body>
+</html>
